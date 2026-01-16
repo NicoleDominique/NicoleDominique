@@ -50,20 +50,19 @@
 + Actively Building SOC-Ready Skills
 + Ranked #15 in Philippines on TryHackMe
 ```
-
 </div><p align="justify"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello! I'm a cybersecurity enthusiast with a strong foundation in defensive security operations, currently transitioning into professional cybersecurity roles. My journey combines academic knowledge with hands-on practical experience through platforms like TryHackMe, where I've achieved notable rankings and completed comprehensive SOC training paths. I'm actively seeking opportunities to contribute to security teams while continuing to grow my expertise. </p><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
-🎯 Career Objective
+## 🎯 Career Objective
 <div align="center"> <h3>🔍 Seeking: <span style="color:#7A3EFF">Tier 1 SOC Analyst Position</span></h3> <p><em>"Ready to protect, detect, and respond"</em></p> </div><table align="center"> <tr> <td align="center" width="33%"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> <br> <strong>Availability</strong> <br> <code>Immediate</code> </td> <td align="center" width="33%"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"> <br> <strong>Notice Period</strong> <br> <code>15 Days</code> </td> <td align="center" width="33%"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"> <br> <strong>Location</strong> <br> <code>Philippines</code> </td> </tr> </table><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
-🛡️ Core Competencies
+## 🛡️ Core Competencies
 <div align="center">
-Domain	Proficiency	Progress	Key Technologies
+## Domain	Proficiency	Progress	Key Technologies
 🔍 SIEM & Log Analysis	Advanced Beginner	▰▰▰▰▱ 80%	Splunk, ELK Stack, KQL/SPL
 🌐 Network Security	Intermediate	▰▰▰▱▱ 60%	Wireshark, Nmap, TCP/IP
 🚨 Incident Response	Intermediate	▰▰▰▱▱ 60%	Log Analysis, IOC Hunting
 💻 System Security	Intermediate	▰▰▰▱▱ 60%	Windows/Linux Hardening
 📝 Technical Documentation	Advanced	▰▰▰▰▰ 100%	Report Writing, Playbooks
 </div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
-🏆 TryHackMe Journey
+## 🏆 TryHackMe Journey
 📊 Statistics
 <div align="center">
 Metric	Achievement	Badge
@@ -73,31 +72,37 @@ Rooms Completed	25+	📚
 Learning Paths	3 Completed	🛣️
 Badges Earned	15+	🎖️
 </div>
-🎖️ Notable Achievements
-<div align="center"> <table> <tr> <td align="center"> <img src="https://tryhackme.com/img/badges/soclevel1.svg" width="120"> <br> <strong>SOC Level 1 Path</strong> <br> <em>Complete SOC training</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/soc-apprentice.svg" width="120"> <br> <strong>SOC Apprentice</strong> <br> <em>SOC operations</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/bronze-league.svg" width="120"> <br> <strong>Bronze League</strong> <br> <em>1st Place</em> </td> </tr> <tr> <td align="center"> <img src="https://tryhackme.com/img/badges/silver-league.svg" width="120"> <br> <strong>Silver League</strong> <br> <em>2nd Place</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/soc-sim-first-alert-closed.svg" width="120"> <br> <strong>First Alert</strong> <br> <em>Closed</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/pre-security.svg" width="120"> <br> <strong>Pre-Security</strong> <br> <em>Completed</em> </td> </tr> </table> </div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
-🚀 Featured Projects
-🔬 Homelab SOC Environment
-🔄 Live Simulation Platform | 🛡️ Defense-in-Depth Architecture
+## 🎖️ Notable Achievements
+<div align="center"> <table> <tr> <td align="center"> <img src="https://tryhackme.com/img/badges/soclevel1.svg" width="120"> <br> <strong>SOC Level 1 Path</strong> <br> <em>Complete SOC training</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/soc-apprentice.svg" width="120"> <br> <strong>SOC Apprentice</strong> <br> <em>SOC operations</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/bronze-league.svg" width="120"> <br> <strong>Bronze League</strong> <br> <em>1st Place</em> </td> </tr> <tr> <td align="center"> <img src="https://tryhackme.com/img/badges/silver-league.svg" width="120"> <br> <strong>Silver League</strong> <br> <em>2nd Place</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/soc-sim-first-alert-closed.svg" width="120"> <br> <strong>First Alert</strong> <br> <em>Closed</em> </td> <td align="center"> <img src="https://tryhackme.com/img/badges/pre-security.svg" width="120"> <br> <strong>Pre-Security</strong> <br> <em>Completed</em> </td> </tr> </table> </div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div><!-- ==================== PROJECTS SECTION ==================== -->
+## 🚀 Featured Projects
+<div align="center"> <h2>🔬 Hands-On Security Demonstrations</h2> <p><em>Practical applications of security knowledge and skills</em></p> </div>
+<!-- ==================== PROJECT 1 DIVIDER ==================== --><div align="center"> <h3> <img src="https://img.shields.io/badge/PROJECT_1-7A3EFF?style=for-the-badge&logo=server&logoColor=white" alt="Project 1" /> </h3> <h2>🏠 Homelab SOC Environment</h2> <p><em>🔄 Live Simulation Platform | 🛡️ Defense-in-Depth Architecture</em></p> </div><div align="center"> <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=statuspage&logoColor=white" alt="Active"> <img src="https://img.shields.io/badge/Type-Homelab-blue?style=flat-square&logo=home-assistant&logoColor=white" alt="Homelab"> <img src="https://img.shields.io/badge/Complexity-Intermediate-orange?style=flat-square&logo=signal&logoColor=white" alt="Intermediate"> </div>
+## 📋 Project Overview
+A self-contained Security Operations Center (SOC) lab environment designed for security monitoring, threat detection, and hands-on attack simulation. This platform mirrors real-world enterprise SOC workflows by combining defensive monitoring infrastructure with an isolated attack network for controlled adversary simulation.
 
+## 🏗️ Architecture
 yaml
 Network Architecture:
   🔵 Monitoring Network: 192.168.10.0/24
-    - Windows Server 2022 (AD DS)
-    - Windows 10 Enterprise (Endpoint)
-    - Ubuntu Server (Splunk SIEM)
+    - Windows Server 2022 (Active Directory Domain Services)
+    - Windows 10 Enterprise (Endpoint telemetry & logging)
+    - Ubuntu Server (Splunk Enterprise SIEM)
   
   🔴 Attack Network: Isolated Segment
-    - Kali Linux (Controlled Attacks)
+    - Kali Linux (Penetration testing and attack simulation)
+## 🎯 Key Features
+Feature	Description	Status
+Real SOC Workflows	Simulates actual SOC operations and procedures	✅ Implemented
+Isolated Networks	Separate attack/defense environments for safety	✅ Implemented
+End-to-End Logging	Comprehensive logging across all systems	✅ Implemented
+Threat Detection	Practical exercises for identifying threats	✅ Implemented
+Incident Response	Hands-on incident handling practice	✅ Implemented
+## 🔗 Project Links
+<div align="center"> <a href="https://github.com/NickyMontederamos/ndmontederamos-HOMELAB"> <img src="https://img.shields.io/badge/🔬_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" width="200"> </a> <a href="https://github.com/NickyMontederamos/ndmontederamos-HOMELAB/blob/main/README.md"> <img src="https://img.shields.io/badge/📖_Documentation-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" width="200"> </a> </div><!-- PROJECT 1 END DIVIDER --><div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=7A3EFF&height=2&section=footer&width=80%&animation=fadeIn" /> <br><br> </div><!-- ==================== PROJECT 2 DIVIDER ==================== --><div align="center"> <h3> <img src="https://img.shields.io/badge/PROJECT_2-FF6B8B?style=for-the-badge&logo=shield-check&logoColor=white" alt="Project 2" /> </h3> <h2>📊 Splunk Security Investigation</h2> <p><em>🔍 Forensic Analysis | 🎯 Threat Hunting | 📈 Incident Response</em></p> </div><div align="center"> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square&logo=check-circle&logoColor=white" alt="Completed"> <img src="https://img.shields.io/badge/Type-Forensics-blue?style=flat-square&logo=magnifying-glass&logoColor=white" alt="Forensics"> <img src="https://img.shields.io/badge/Platform-TryHackMe-orange?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"> </div>
+## 📋 Project Overview
+Conducted a hands-on security investigation using Splunk SIEM to analyze a simulated cyber attack in a TryHackMe lab environment. Successfully identified and tracked attacker "a1berto" across 12,256 logs, uncovering 8 unique IOCs and reconstructing the complete attack chain in under 20 minutes.
 
-Key Features:
-  ✅ Real SOC workflows simulation
-  ✅ Isolated attack/defense networks
-  ✅ End-to-end logging & monitoring
-  ✅ Practical threat detection exercises
-<div align="center"> <a href="https://github.com/NickyMontederamos/ndmontederamos-HOMELAB"> <img src="https://img.shields.io/badge/🔬_Explore_Homelab-181717?style=for-the-badge&logo=github&logoColor=white" width="250"> </a> </div>
-📊 Splunk Security Investigation
-🔍 Forensic Analysis | 🎯 Threat Hunting
-
+## 📈 Performance Metrics
 <div align="center">
 Metric	Result	Visual
 Logs Analyzed	12,256	📈
@@ -106,16 +111,37 @@ Investigation Time	<20 min	⏱️
 Attack Chain	Fully Reconstructed	🔗
 Attacker	"a1berto" Identified	🎯
 </div>
-Investigation Timeline:
+## 🔄 Investigation Timeline
+timeline
+    title Splunk Investigation Timeline
+    section 0-2 Minutes : Initial Detection
+        EventID=4720 Analysis
+        Backdoor User Identification
+    section 2-10 Minutes : Attack Reconstruction
+        Registry Analysis (EventID=13)
+        User Impersonation Investigation
+        PowerShell Activity Correlation
+    section 10-15 Minutes : Deep Analysis
+        Lateral Movement Tracking
+        Base64 Payload Decoding
+    section 15-20 Minutes : Finalization
+        C2 Server Identification
+        Complete IOC Extraction
+        Final Report Compilation
+## 🎯 Key Findings
+✅ Rapid Triage: Identified initial compromise in <2 minutes
 
-graph LR
-    A[🔍 Initial Detection<br>EventID=4720] --> B[👤 User Analysis<br>Backdoor Account]
-    B --> C[📁 Registry Forensics<br>EventID=13]
-    C --> D[🔄 Lateral Movement<br>PowerShell Tracking]
-    D --> E[💾 Payload Analysis<br>Base64 Decoding]
-    E --> F[🌐 C2 Identification<br>Attack Closure]
-<div align="center"> <a href="https://github.com/NickyMontederamos/Splunk-Basics"> <img src="https://img.shields.io/badge/📋_View_Full_Report-FF6C37?style=for-the-badge&logo=splunk&logoColor=white" width="250"> </a> </div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
-🛠️ Technical Toolkit
+✅ Complete Attack Chain: Reconstructed full attack timeline in ~10 minutes
+
+✅ IOC Extraction: Discovered 8 unique indicators of compromise
+
+✅ Cross-Source Correlation: Analyzed 5 different log source types
+
+✅ MITRE ATT&CK Mapping: Mapped all techniques to framework
+
+## 🔗 Project Links
+<div align="center"> <a href="https://github.com/NickyMontederamos/Splunk-Basics"> <img src="https://img.shields.io/badge/📋_View_Full_Report-FF6C37?style=for-the-badge&logo=splunk&logoColor=white" width="200"> </a> <a href="https://tryhackme.com/room/investigatingwithsplunk"> <img src="https://img.shields.io/badge/🎯_TryHackMe_Room-0D0C22?style=for-the-badge&logo=tryhackme&logoColor=white" width="200"> </a> </div><!-- PROJECT 2 END DIVIDER --><div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B8B&height=2&section=footer&width=80%&animation=fadeIn" /> <br><br> </div><!-- ==================== OTHER PROJECTS ==================== --><div align="center"> <h3>📚 Additional Security Projects</h3> <p><em>Ongoing learning and skill development initiatives</em></p> </div><table align="center"> <tr> <td align="center" width="50%"> <h4>🔐 Detection Lab</h4> <p>A home SOC lab environment for practicing threat detection, log analysis, and incident response using open-source security tools.</p> <img src="https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square" alt="Ongoing"> </td> <td align="center" width="50%"> <h4>🤖 SOC Automation</h4> <p>Developing automation scripts for common SOC tasks including log parsing, alert triage, and IOC checking using Python.</p> <img src="https://img.shields.io/badge/Status-Planning-yellow?style=flat-square" alt="Planning"> </td> </tr> <tr> <td align="center" width="50%"> <h4>📝 TryHackMe Write-ups</h4> <p>Documenting solutions and methodologies for various TryHackMe rooms focusing on defensive security techniques.</p> <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Active"> </td> <td align="center" width="50%"> <h4>🛡️ Blue Team Toolkit</h4> <p>Collection of custom scripts, configurations, and tools for blue team operations and security monitoring.</p> <img src="https://img.shields.io/badge/Status-Development-orange?style=flat-square" alt="Development"> </td> </tr> </table><!-- PROJECTS SECTION END --><div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" /> <br> </div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
+## 🛠️ Technical Toolkit
 <div align="center">
 SIEM & Monitoring
 <div> <img src="https://img.shields.io/badge/Splunk-FF6C37?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elastic Search"> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"> <img src="https://img.shields.io/badge/Graylog-FF6600?style=for-the-badge&logo=graylog&logoColor=white" alt="Graylog"> </div>
@@ -127,7 +153,7 @@ Frameworks & Methodologies
 <div> <img src="https://img.shields.io/badge/MITRE_ATT&CK-000000?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE ATT&CK"> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"> <img src="https://img.shields.io/badge/NIST-000000?style=for-the-badge&logo=nist&logoColor=white" alt="NIST"> <img src="https://img.shields.io/badge/ISO_27001-000000?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 27001"> </div>
 Operating Systems
 <div> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"> </div></div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
-📈 Learning Roadmap
+## 📈 Learning Roadmap
 timeline
     title Cybersecurity Career Roadmap
     2024 Q1 : Security+ Certification<br>Python Security Scripting
@@ -137,7 +163,7 @@ timeline
     2025 Q1 : Splunk Certification<br>Advanced SIEM Operations
     2025 Q2 : Threat Intelligence<br>Mentoring Junior Analysts
 <div align="center"> <table> <tr> <td align="center"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> <br> <strong>Current Focus</strong> <br> SIEM Operations </td> <td align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"> <br> <strong>Next Steps</strong> <br> Threat Hunting </td> <td align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"> <br> <strong>Future Goals</strong> <br> Detection Engineering </td> </tr> </table> </div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
-🌟 Current Learning Focus
+## 🌟 Current Learning Focus
 <div align="center">
 Area	Status	Progress	Tools/Resources
 📚 Advanced SIEM	In Progress	▰▰▰▰▱ 80%	Splunk, ELK Stack
@@ -150,7 +176,7 @@ Area	Status	Progress	Tools/Resources
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NickyMontederamos&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3EFF&icon_color=FF6B8B&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickyMontederamos&theme=radical&hide_border=true&background=0d1117&stroke=7A3EFF&ring=FF6B8B&fire=FF6B8B&currStreakLabel=7A3EFF" alt="GitHub Streak" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickyMontederamos&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7A3EFF&text_color=ffffff&langs_count=6" alt="Top Languages" height="180" /></div><!-- Animated Divider --><div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%" height="30" /> </div>
 📞 Let's Connect!
 <div align="center">
-🚀 Actively seeking SOC Analyst opportunities!
+## 🚀 Actively seeking SOC Analyst opportunities!
 yaml
 availability: "Immediate"
 notice_period: "15 days"
